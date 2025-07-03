@@ -69,7 +69,7 @@ flutter run -d chrome
 
 🔗 Live Demo
 
-🌍 https://V4CJ.github.io
+🌍 https://v4cj.github.io
 
 📬 Let’s Connect
 
